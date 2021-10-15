@@ -18,7 +18,13 @@ div{
 	padding: 0px 2px 0px 2px;
 border-style: dotted;
 }
-ul{
+ol.a{ list-style-type: lower-alpha;
+}
+ol, ul{
 	padding: 2px;
 	text-align: center;
+	list-style: inside;
+}
+ul.b{ list-style-type: square;
+
 }
