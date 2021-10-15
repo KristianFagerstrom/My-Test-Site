@@ -1,6 +1,16 @@
 body{
 	text-align: center;
+	background-color: black;
+	text color: white;
+}
+
+p{
+	font-size: 12px;
+ color: green;
 }
 h1{
-  font-size: 2em;
+  font-size: 20px;
+}
+div{
+
 }
