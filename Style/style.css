@@ -12,7 +12,12 @@ h1{
   font-size: 20px;
 }
 div{
-border-style: dotted 2px;
-width: 100px;
-height: 100px;
+	margin: auto;
+	width: 100px;
+	height: 100px;
+	padding: 0px 2px 0px 2px;
+border-style: dotted;
+}
+ul{
+	text-align: center;
 }
