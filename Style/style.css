@@ -12,7 +12,7 @@ h1{
   font-size: 20px;
 }
 div{
-border-style: dotted;
+border-style: dotted 2px;
 width: 100px;
 height: 100px;
 }
