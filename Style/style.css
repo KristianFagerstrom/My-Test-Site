@@ -19,5 +19,6 @@ div{
 border-style: dotted;
 }
 ul{
+	padding: 2px;
 	text-align: center;
 }
