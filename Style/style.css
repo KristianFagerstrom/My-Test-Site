@@ -1,0 +1,18 @@
+body{
+	text-align: center;
+	background-color: black;
+  color: white;
+}
+
+p{
+font-size: 12px;
+ color: green;
+}
+h1{
+  font-size: 20px;
+}
+div{
+border-style: dotted;
+width: 100px;
+height: 100px;
+}
