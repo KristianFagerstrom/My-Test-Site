@@ -11,6 +11,16 @@ p {
 
 h1 {
   font-size: 20px;
+padding-top: 4em;
+}
+nav{
+  font-size: 25px;
+  display: block;
+  float: right;
+}
+nav a{
+  color:#AF99C9;
+  margin-left: 3px;
 }
 
 div {
