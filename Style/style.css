@@ -16,7 +16,7 @@ padding-top: 4em;
 nav{
   font-size: 25px;
   display: block;
-  float: right;
+  float: left;
 }
 nav a{
   color:#AF99C9;
