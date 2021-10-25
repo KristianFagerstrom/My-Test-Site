@@ -20,6 +20,11 @@ nav {
 	background-color: #F38F2B;
 	color: #FFFFFF;
 }
+nav a{
+	color:white;
+	font-size: 2em;
+	padding-left: 8em;
+}
 section {
 	padding-bottom: 1000px;
     margin-bottom: -1000px;
