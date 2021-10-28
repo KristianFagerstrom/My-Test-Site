@@ -1,12 +1,12 @@
 .header{
-background-color: #818181;
+background-color: #000000;
 	color: #EBECEA;
 	float: center;
 	width: 100%;
 	font-size: 2em;
+	text-align: center;
+
 }
-@charset "utf-8";
-/* CSS Document */
 
 header {
 	background-color: #E11328;
@@ -17,23 +17,22 @@ header {
 nav {
 	padding: 10px;
 	margin: 0px;
-	background-color: #F38F2B;
-	color: #FFFFFF;
+	background-color: #747474;
+	color: white;
+	text-align: center;
 }
 nav a{
 	color:white;
 	font-size: 2em;
-	padding-left: 8em;
+	padding-left: 5em;
 }
 section {
 	padding-bottom: 1000px;
     margin-bottom: -1000px;
 	padding: 10px;
 	margin: 0px;
-	background-color: #FFBF01;
-	color: #FFFFFF;
 	font-size: 1.2em;
-	width: 50%;
+	width: 100%;
 	float: left;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -55,7 +54,7 @@ article {
 footer {
 	padding: 10px;
 	margin: 0px;
-	background-color: #932A8F;
+	background-color: #000000;
 	color: #FFFFFF;
 	font-size: 1.2em;
 	clear: both;
