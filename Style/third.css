@@ -98,7 +98,7 @@ aside {
 	box-sizing: border-box;
 	float: left;
 }
-aside ul p{
+aside ul li{
 	padding-bottom: 10px;
 }
 p {
