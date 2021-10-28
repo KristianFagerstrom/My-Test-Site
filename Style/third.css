@@ -23,10 +23,12 @@ nav {
 }
 nav a{
 	color:white;
-	font-size: 2em;
-	padding-left: 5em;
+	font-size: 1em;
+	padding-left: 2em;
+	padding-right: 2em;
 }
 section {
+	text-align: center;
 	padding-bottom: 1000px;
     margin-bottom: -1000px;
 	padding: 10px;
@@ -39,12 +41,11 @@ section {
 	box-sizing: border-box;
 }
 article {
-	padding: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
 	margin-top: 7px;
 	margin-right: 7px;
-	margin-left: 7px;
 	margin-bottom: 7px;
-	background-color: #7BC042;
 	font-size: 1em;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
