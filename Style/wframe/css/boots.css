@@ -1,0 +1,29 @@
+.header{
+background-color: #818181;
+	color: #EBECEA;
+	float: center;
+	width: 100%;
+	font-size: 2em;
+}
+
+
+p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	padding: 0px;
+	margin: 0px;
+	font-size: 1.2em;
+}
+.container {
+    overflow: hidden;
+}
+.row{
+	background-color: black;
+	color: white;
+	padding-top: 20px;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
