@@ -3,6 +3,7 @@
 
 header img {
 	max-width: 100%;
+	padding-bottom: 10px;
 }
 header {
 	text-align: center;
@@ -11,7 +12,7 @@ header {
 	border-bottom-left-radius: 0px;
 	border-top-right-radius: 20px;
 	background-color: #B9C826;
-	
+
 }
 
 footer {
@@ -24,7 +25,7 @@ footer {
 	padding-top: 20px;
 	font-size: 1.4em;
 	clear: both;
-	
+
 }
 aside img {
 	max-width: 100%;
