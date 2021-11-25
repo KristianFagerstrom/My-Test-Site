@@ -15,7 +15,7 @@ header {
 }
 
 footer {
-	background-color: #B9C826;
+color: #FFFFFFFF;
 	border-bottom-left-radius: 20px;
 	border-bottom-right-radius: 20px;
 	padding-bottom: 20px;
@@ -26,6 +26,7 @@ footer {
 	clear: both;
 font-family: 'Nunito Sans', sans-serif;
 text-align: center;
+font-weight: bold;
 }
 aside img {
 	max-width: 100%;
@@ -87,17 +88,37 @@ nav a {
 	text-decoration: none;
 	text-align: center;
 	font-size: 1.4em;
-	color: #3F4600;
+	color: #FFFFFFFF;
 	font-weight: bold;
 	padding-right: 7px;
 	padding-bottom: 5px;
 	padding-left: 7px;
 }
+
 .active {
-	background-color: #B9C826;
-	color:#FFFFFFFF;
+	background-color: #47DEE5;
 	border-bottom-right-radius: 10px;
 	border-bottom-left-radius: 10px;
+}
+.active{
+  --color: #a972cb;
+  --hover: #FF3334;
+}
+
+.active:hover,
+.active:focus {
+  box-shadow: inset 0 0 0 2em var(--hover);
+}
+@-webkit-keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 var(--hover);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 var(--hover);
+  }
 }
 /*tabletin näkymä*/
 @media screen and (max-width:426px) and (min-width:768px){
