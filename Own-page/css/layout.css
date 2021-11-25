@@ -39,6 +39,8 @@ body {
 	margin-right: auto;
 	font-size: 62%;
 	background-image: url(../images/background-2.jpg);
+	background-position: top;
+    background-size: cover;
 }
 section {
 	-webkit-box-sizing: border-box;
