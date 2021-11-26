@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+#scroller {
+    position: relative;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    padding-right: 0px;
+    width: 550px;
+    height: 400px;
+    margin: 0 auto;
+    }
+    #scroller .innerScrollArea {
+        overflow: hidden;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+    }
+    #scroller ul {
+        padding: 0;
+        margin: 0;
+        position: relative;
+    }
+    #scroller li {
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+        position: absolute;
+    }
+body {
+    background-color: #43B3C0;
+}
